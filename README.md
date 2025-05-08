@@ -1,6 +1,5 @@
 <h1 align="center"> <img src="https://x-meeting.com/events/images/nicepage-images/LogotipodoX-meeting2025.png"/> </h1>      
-![Badge xmeeting](https://x-meeting.com/events/images/nicepage-images/LogotipodoX-meeting2025.png)       
-  
+
 ![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     
 
 <h1 align="center">  Introduction to BioPython - XMeeting 2025 </h1>     
