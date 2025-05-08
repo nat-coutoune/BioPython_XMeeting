@@ -16,6 +16,10 @@
 
 ## Team
 
+| [<yourimg><br><sub>Angelina Meiras-Ottoni</sub>](link) |
+| :---: |
+| [<yourimg><sub>Juliana Félix</sub>](Link) |
+| :---: |
 | [<img src="https://avatars.githubusercontent.com/u/16027642?v=4" width=115><br><sub>Natalia Coutouné</sub>](https://github.com/nat-coutoune) |
 | :---: |
 
