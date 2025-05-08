@@ -1,8 +1,10 @@
 ![BioPython](https://github.com/biopython/biopython/raw/master/Doc/images/biopython_logo_m.png)
 
-<h1 align="center">  BioPython_XMeeting </h1>  
+<h1 align="center">  BioPython_XMeeting </h1>     
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)   
-![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   
 
 ## About this course
 
