@@ -1,0 +1,78 @@
+LOCUS       XM_067691878             954 bp    mRNA    linear   PLN 04-SEP-2024
+DEFINITION  Candida metapsilosis LIA1 (I9W82_002965), partial mRNA.
+ACCESSION   XM_067691878
+VERSION     XM_067691878.1  GI:2797497025
+DBLINK      BioProject: PRJNA1151048
+            BioSample: SAMN17016193
+KEYWORDS    RefSeq.
+SOURCE      Candida metapsilosis
+  ORGANISM  Candida metapsilosis
+            Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+            Pichiomycetes; Debaryomycetaceae; Candida/Lodderomyces clade;
+            Candida.
+REFERENCE   1  (bases 1 to 954)
+  AUTHORS   Mixao,V., Ksiezopolska,E., Saus,E., Boekhout,T., Gacser,A. and
+            Gabaldon,T.
+  TITLE     Effect of drift, selection, and recombination on the evolution of
+            hybrid genomes in Candida yeast pathogens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 954)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-AUG-2024) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 954)
+  AUTHORS   Mixao,V. and Gabaldon,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2020) Life Sciences, Barcelona Supercomputing
+            Center, Carrer Jordi Girona 29, Barcelona 08034, Spain
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_027138161).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="Candida metapsilosis"
+                     /mol_type="mRNA"
+                     /strain="BP57"
+                     /isolation_source="throat"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:273372"
+                     /chromosome="Unknown"
+                     /geo_loc_name="Hungary"
+     gene            <1..>954
+                     /locus_tag="I9W82_002965"
+                     /db_xref="GeneID:93651594"
+     CDS             1..954
+                     /locus_tag="I9W82_002965"
+                     /codon_start=1
+                     /transl_table=12
+                     /product="LIA1"
+                     /protein_id="XP_067548314.1"
+                     /db_xref="GI:2797497026"
+                     /db_xref="GeneID:93651594"
+                     /translation="MSEEIQMKNASLEQLRDVLINKSSDVALADRFRALFNLKSIGSD
+                     SADKEAAHKAIKYIAEAFKDDSELLKHEVAYVLGQTKDLYAAPFLRDALTDNKQQVMV
+                     RHEAAEALGALGDVDSLPLLENYYKNDPSLEIKQTCELAIERIKWENSEEAKTENLEK
+                     SLYESIDPAPPLATDPNTSAVEKLQDILNDQEKPLFERYRAMFRLRDIGTDEACLALA
+                     SGFVDPSALFKHEIAYVFGQLCNPVTVPSLIKVLKDETEAGMVRHEAAEALGSIATDE
+                     CLPVLRSFLNDQEQVVRDSAIVALDMYEYENSNELEYATVK"
+ORIGIN      
+        1 atgtcagaag aaattcaaat gaaaaatgct agtttagaac aattaaggga tgtccttata
+       61 aacaaaagca gtgacgttgc tttggctgat agatttagag cattattcaa cttgaagtca
+      121 atagggtcag atagtgctga taaagaggcg gctcacaagg caatcaagta cattgctgaa
+      181 gcttttaaag atgactctga gttgttaaag catgaagtgg cctatgtttt gggtcaaacc
+      241 aaggacttgt atgccgcccc atttttgaga gatgcattga ctgacaataa acaacaagtt
+      301 atggttagac atgaggcagc tgaggcttta ggagccttag gtgatgttga ttctttgcca
+      361 ttattggaaa actattataa aaacgatcca tcgttggaaa tcaaacaaac ttgtgaacta
+      421 gctattgaaa gaatcaaatg ggagaattcg gaagaagcca aaactgaaaa cttggaaaaa
+      481 tcattgtatg aatccattga ccctgcacct ccattagcta ctgatccaaa cacatcagca
+      541 gttgagaaac tacaagatat tttgaacgac caggaaaagc cattgtttga gagatacaga
+      601 gccatgttta gattgagaga cattggtact gatgaggctt gtcttgcgtt ggcatctggt
+      661 ttcgttgacc caagcgcgtt gttcaagcat gaaattgctt atgtttttgg tcaattgtgt
+      721 aatcctgtca ctgtcccatc gttgattaaa gtgttgaaag acgagacgga agcaggtatg
+      781 gtgagacacg aggctgctga agccttggga agtatcgcta ctgatgaatg cttacctgtt
+      841 ttgaggtctt tccttaatga tcaagaacaa gtggttagag attcagccat tgttgctttg
+      901 gatatgtacg agtatgaaaa ctccaacgag ttggaatacg caactgtaaa atag
+//
+
