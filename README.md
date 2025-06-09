@@ -1,6 +1,8 @@
 <h1 align="center"> <img src="resources/xmeeting_banner.jpg"/> </h1>      
 <h1 align="center">  Introduction to BioPython - XMeeting 2025 </h1>     
-![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     
+
+![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)      
+ 
 
 ## About this course
 
