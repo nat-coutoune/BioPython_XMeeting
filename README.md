@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://x-meeting.com/events/images/nicepage-images/LogotipodoX-meeting2025.png"/> </h1>      
+<h1 align="center"> <img src="resources/xmeeting_banner.jpg"/> </h1>      
 
 ![Badge Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)     
 
