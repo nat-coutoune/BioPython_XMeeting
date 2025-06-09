@@ -18,12 +18,12 @@ Day 2 was all about connecting your Python scripts to the vast biological inform
 **Day 3: Sequence Similarity Search with BLAST (`Bio.Blast.NCBIWWW` and `Bio.Blast.NCBIXML`)**   
 This day focused on one of the most widely used tools in bioinformatics: BLAST. We concentrated on performing online BLAST searches using `Bio.Blast.NCBIWWW` and XML file accession using `Bio.Blast.NCBIXML`. We learned how to submit query sequences (nucleotide or protein) to NCBI's web service, specify search parameters (like E-value and database), and parse the XML output to extract meaningful results such as hit titles, accession numbers, E-values, and alignment details. 
 
-**Day 4: Project Work: Integrating Biopython Tools**
+**Day 4: Project Work: Integrating Biopython Tools**    
 On our final day, we testedd new skills with a hands-on project. We worked on challenges that required to integrate `Bio.Entrez`, `Bio.SeqIO`, and `Bio.Blast`. These projects was designed to simulate (small-scale) real-world bioinformatics scenarios, such as annotating an unknown gene, comparing protein families across species, or batch-processing sequence identification. This day was about applying your knowledge to solve biological questions programmatically and reinforcing your understanding of Biopython's capabilities.
 
 ## **About PyLadies Bioinformática**
 
-This mini-course is proudly organized by [PyLadies Bioinformática](https://www.instagram.com/pyladiesbioinfo/), a group of the global PyLadies community dedicated to empowering women and other gender minorities in the Python programming language within the fascinating field of Bioinformatics. Our group fosters a supportive and inclusive environment where members can learn, share knowledge, and collaborate on projects at the intersection of biology and computation. Through workshops, study groups, and events like this mini-course, PyLadies Bioinformática aims to lower barriers to entry in bioinformatics and strengthen our community's technical skills. We believe in learning by doing and supporting each other's growth in this exciting interdisciplinary domain.    
+This mini-course is proudly organized by [PyLadies Bioinformática](https://www.instagram.com/pyladiesbioinfo/), a group of the global PyLadies **community dedicated to empowering women and other gender minorities in the Python** programming language within the fascinating field of **Bioinformatics**. Our group fosters a supportive and inclusive environment where members can **learn, share knowledge, and collaborate on projects** at the intersection of biology and computation. Through workshops, study groups, and events like this mini-course, **PyLadies Bioinformática aims to lower barriers to entry in bioinformatics and strengthen our community's technical skills**. We believe in learning by doing and supporting each other's growth in this exciting interdisciplinary domain.    
 
 ## Team
        
