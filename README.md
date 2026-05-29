@@ -30,9 +30,9 @@ On our final day, we testedd new skills with a hands-on project. We worked on ch
        
 | [<img src="https://avatars.githubusercontent.com/u/16027642?v=4" width=115><br><sub>Natalia Coutouné</sub>](https://github.com/nat-coutoune) |    
 | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/210911421?v=4" width=115><br><sub>Juliana Félix</sub>](https://github.com/felix-juliana) |    
+| [<img src="https://avatars.githubusercontent.com/u/210911421?v=4" width=115><br><sub>Juliana Félix</sub>](https://github.com/felix-juliana) |     
 | :---: |
-| [<img src="https://avatars.githubusercontent.com/u/86311687?v=4" width=115><br><sub>Angelina Meiras-Ottoni</sub>](https://github.com/AngelOttoni) |  
+| [<img src="https://avatars.githubusercontent.com/u/86311687?v=4" width=115><br><sub>Angelina Meiras-Ottoni</sub>](https://github.com/AngelOttoni) |      
 | :---: |
  
 
